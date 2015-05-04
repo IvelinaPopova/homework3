@@ -1,0 +1,6 @@
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.exe.config
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.exe
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.pdb
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.csprojResolveAssemblyReference.cache
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.exe
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.pdb

@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\09. Exchange Variable Values\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache

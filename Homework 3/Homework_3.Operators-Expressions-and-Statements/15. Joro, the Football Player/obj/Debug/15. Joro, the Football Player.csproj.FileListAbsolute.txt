@@ -1,0 +1,6 @@
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.pdb
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\15. Joro, the Football Player\obj\Debug\15. Joro, the Football Player.csprojResolveAssemblyReference.cache
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\15. Joro, the Football Player\obj\Debug\_15.Joro__the_Football_Player.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\15. Joro, the Football Player\obj\Debug\_15.Joro__the_Football_Player.pdb

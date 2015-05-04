@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

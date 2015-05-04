@@ -1,0 +1,8 @@
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe.config
+D:\softuni\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe.config
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe.config
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.pdb

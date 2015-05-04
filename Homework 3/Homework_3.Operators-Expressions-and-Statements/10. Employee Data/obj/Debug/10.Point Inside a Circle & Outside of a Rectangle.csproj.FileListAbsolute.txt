@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\obj\Debug\10.Point Inside a Circle & Outside of a Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\obj\Debug\_10.Employee_Data.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\obj\Debug\_10.Employee_Data.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\obj\Debug\10.Point Inside a Circle & Outside of a Rectangle.csprojResolveAssemblyReference.cache
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\10. Employee Data\bin\Debug\_10.Employee_Data.pdb

@@ -1,0 +1,6 @@
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe.config
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\11. Bank Account Data\obj\Debug\11.Bitwise Extract Bit #3.csprojResolveAssemblyReference.cache

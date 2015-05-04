@@ -1,0 +1,21 @@
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.exe.config
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.exe
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.pdb
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\01.helloo\obj\Debug\01.Declare Variables.csprojResolveAssemblyReference.cache
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.exe
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.exe.config
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\01.helloo\obj\Debug\01.helloo.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\01.helloo\bin\Debug\01.helloo.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\01.helloo\obj\Debug\01.Declare Variables.csprojResolveAssemblyReference.cache
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\01.helloo\bin\Debug\01.helloo.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\01.helloo\obj\Debug\01.helloo.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\01.helloo\obj\Debug\01.helloo.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_2.Promenlivi\Homework 2.Promenlivi\01.helloo\bin\Debug\01.helloo.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_2.Promenlivi\Homework 2.Promenlivi\01.helloo\obj\Debug\01.helloo.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_2.Promenlivi\Homework 2.Promenlivi\01.helloo\obj\Debug\01.helloo.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\01.helloo\bin\Debug\01.helloo.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\01.helloo\obj\Debug\01.helloo.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\01.helloo\obj\Debug\01.helloo.pdb

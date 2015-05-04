@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\07. Quotes in Strings\obj\Debug\07.Point in a Circle.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

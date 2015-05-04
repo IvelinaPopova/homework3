@@ -1,0 +1,10 @@
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02.proba\bin\Debug\02.proba.exe.config
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02.proba\obj\Debug\02.proba.exe
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02.proba\obj\Debug\02.proba.pdb
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02.proba\bin\Debug\02.proba.exe
+C:\Users\bori4\Documents\Visual Studio 2013\Projects\ConsoleApplication1\02.proba\bin\Debug\02.proba.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\02.proba\bin\Debug\02.proba.exe.config
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\02.proba\obj\Debug\02.proba.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\02.proba\obj\Debug\02.proba.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\02.proba\bin\Debug\02.proba.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\02.proba\bin\Debug\02.proba.pdb

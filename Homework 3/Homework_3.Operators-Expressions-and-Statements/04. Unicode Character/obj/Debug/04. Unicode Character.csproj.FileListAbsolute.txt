@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\04. Unicode Character\bin\Debug\_04.Unicode_Character.pdb
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\04. Unicode Character\obj\Debug\04. Unicode Character.csprojResolveAssemblyReference.cache
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\04. Unicode Character\obj\Debug\_04.Unicode_Character.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\04. Unicode Character\obj\Debug\_04.Unicode_Character.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\04. Unicode Character\obj\Debug\_04.Unicode_Character.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\04. Unicode Character\obj\Debug\_04.Unicode_Character.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\04. Unicode Character\bin\Debug\_04.Unicode_Character.pdb

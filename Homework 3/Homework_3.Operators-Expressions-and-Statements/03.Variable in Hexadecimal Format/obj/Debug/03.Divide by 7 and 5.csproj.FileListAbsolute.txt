@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.pdb

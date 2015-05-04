@@ -1,0 +1,5 @@
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\13.  Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\13.  Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\13.  Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\13.  Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\13.  Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

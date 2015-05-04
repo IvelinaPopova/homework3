@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\14.Modify a Bit at Given Position.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\14.Modify a Bit at Given Position.csprojResolveAssemblyReference.cache

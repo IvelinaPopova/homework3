@@ -1,0 +1,6 @@
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\02.proba\bin\Debug\02.proba.exe.config
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\02.proba\bin\Debug\02.proba.exe
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\02.proba\bin\Debug\02.proba.pdb
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\02.proba\obj\Debug\02object.csprojResolveAssemblyReference.cache
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\02.proba\obj\Debug\02.proba.exe
+c:\users\bori4\documents\visual studio 2013\Projects\ConsoleApplication1\02.proba\obj\Debug\02.proba.pdb

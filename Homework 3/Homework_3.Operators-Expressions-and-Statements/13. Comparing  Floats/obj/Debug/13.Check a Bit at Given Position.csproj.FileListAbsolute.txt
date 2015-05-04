@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\bin\Debug\_13.Comparing__Floats.exe.config
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\bin\Debug\_13.Comparing__Floats.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\bin\Debug\_13.Comparing__Floats.pdb
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\obj\Debug\13.Check a Bit at Given Position.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\obj\Debug\_13.Comparing__Floats.exe
+C:\Users\DELL\Desktop\iva\softuni\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\obj\Debug\_13.Comparing__Floats.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\bin\Debug\_13.Comparing__Floats.exe.config
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\obj\Debug\_13.Comparing__Floats.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\obj\Debug\_13.Comparing__Floats.pdb
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\obj\Debug\13.Check a Bit at Given Position.csprojResolveAssemblyReference.cache
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\bin\Debug\_13.Comparing__Floats.exe
+D:\PAST\SOFTUNI\Homework 3\Homework_3.Operators-Expressions-and-Statements\Homework_3.Operators-Expressions-and-Statements\13. Comparing  Floats\bin\Debug\_13.Comparing__Floats.pdb

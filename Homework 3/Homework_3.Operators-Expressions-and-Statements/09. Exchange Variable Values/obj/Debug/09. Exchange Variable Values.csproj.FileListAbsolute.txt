@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\DELL\Desktop\iva\softuni\lekciq 2\ConsoleApplication1\ConsoleApplication1\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb

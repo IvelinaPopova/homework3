@@ -1,0 +1,5 @@
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\PAST\SOFTUNI\Homework 2.Promenlivi\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
